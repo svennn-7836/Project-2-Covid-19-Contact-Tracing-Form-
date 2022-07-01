@@ -1,6 +1,7 @@
 Date of Arrival/Appointment: Friday, July 1, 2022
-NAME: dawdwa
-AGE: dwadwa
-SEX:  ADDRESS: dawdwa
-CONTACT INFO: dawdwa
-Temperature upon entry: dadwa
+NAME: MALLARi
+AGE: 19
+SEX: Male
+ADDRESS: 0310
+CONTACT INFO: 09666
+Temperature upon entry: 37.2 C

@@ -49,6 +49,7 @@ namespace Covid_19_Contact_Tracing_Form
         private void button1_Click(object sender, EventArgs e)
         {
             //Create a txt file for gathered Information
+
             StreamWriter outputFile;
             outputFile = File.CreateText(@"D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\DATABASE.txt");
 
@@ -56,13 +57,20 @@ namespace Covid_19_Contact_Tracing_Form
             outputFile.WriteLine(label3.Text + " " + textBox1.Text);
             outputFile.WriteLine(label4.Text + " " + textBox2.Text);
 
-            // Show selected Radio head button
-            string sex;
-            sex = "Male";
-            sex = "Female";
-            sex = "Non-binary";
-        
-            outputFile.Write(label5.Text + " " + " ");
+            //Classification of sex with radiobutton
+            outputFile.Write(label5.Text + " ");
+
+            // Show selected Radio head button using if-else-if statements
+
+            if (radioButton1.Checked)
+                outputFile.WriteLine(radioButton1.Text);
+
+            else if (radioButton2.Checked)
+                outputFile.WriteLine(radioButton2.Text);
+
+            else if (radioButton3.Checked)
+                outputFile.WriteLine(radioButton3.Text);
+
             outputFile.WriteLine(label6.Text + " " + textBox3.Text);
             outputFile.WriteLine(label7.Text + " " + textBox4.Text);
             outputFile.WriteLine(label9.Text + " " + textBox5.Text);
