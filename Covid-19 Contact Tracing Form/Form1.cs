@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -42,6 +43,31 @@ namespace Covid_19_Contact_Tracing_Form
 
         private void label8_Click(object sender, EventArgs e)
         {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            //Create a txt file for gathered Information
+            StreamWriter outputFile;
+            outputFile = File.CreateText(@"D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\DATABASE.txt");
+
+            outputFile.WriteLine(label8.Text + " " + dateTimePicker1.Text);
+            outputFile.WriteLine(label3.Text + " " + textBox1.Text);
+            outputFile.WriteLine(label4.Text + " " + textBox2.Text);
+
+            // Show selected Radio head button
+            string sex;
+            sex = "Male";
+            sex = "Female";
+            sex = "Non-binary";
+        
+            outputFile.Write(label5.Text + " " + " ");
+            outputFile.WriteLine(label6.Text + " " + textBox3.Text);
+            outputFile.WriteLine(label7.Text + " " + textBox4.Text);
+            outputFile.WriteLine(label9.Text + " " + textBox5.Text);
+       
+            outputFile.Close();
 
         }
     }
