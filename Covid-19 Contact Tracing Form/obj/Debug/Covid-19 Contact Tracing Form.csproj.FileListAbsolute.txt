@@ -1,0 +1,9 @@
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\bin\Debug\Covid-19 Contact Tracing Form.exe.config
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\bin\Debug\Covid-19 Contact Tracing Form.exe
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\bin\Debug\Covid-19 Contact Tracing Form.pdb
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\obj\Debug\Covid-19 Contact Tracing Form.csprojResolveAssemblyReference.cache
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\obj\Debug\Covid_19_Contact_Tracing_Form.Form1.resources
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\obj\Debug\Covid_19_Contact_Tracing_Form.Properties.Resources.resources
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\obj\Debug\Covid-19 Contact Tracing Form.csproj.GenerateResource.Cache
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\obj\Debug\Covid-19 Contact Tracing Form.exe
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\obj\Debug\Covid-19 Contact Tracing Form.pdb
