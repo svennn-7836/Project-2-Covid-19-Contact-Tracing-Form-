@@ -54,7 +54,7 @@ namespace Covid_19_Contact_Tracing_Form
             //Change from WriteText to AppendText to record all inputted informations
 
             StreamWriter outputFile;
-            outputFile = File.AppendText(@"D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\DATABASE.txt");
+            outputFile = File.AppendText(@"D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\DATABASE RECORD.txt");
 
             outputFile.WriteLine(label8.Text + " " + dateTimePicker1.Text);
             outputFile.WriteLine(label3.Text + " " + textBox1.Text);

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.IO;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -43,5 +44,21 @@ namespace Covid_19_Contact_Tracing_Form
         {
 
         }
+
+        private void button1_Click_1(object sender, EventArgs e)
+        {
+
+            //Transition from Form2 to Record Access
+
+            Form3 FORM3 = new Form3();
+            FORM3.Show();
+            this.Hide();
+
+
+
+
+        }
     }
 }
+       
+
