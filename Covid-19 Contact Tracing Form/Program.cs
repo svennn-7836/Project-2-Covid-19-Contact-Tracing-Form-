@@ -16,7 +16,12 @@ namespace Covid_19_Contact_Tracing_Form
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Form1 FORM1 = new Form1();
+            FORM1.Show();
+            Application.Run();
+
         }
     }
-}
+
+}        
+   

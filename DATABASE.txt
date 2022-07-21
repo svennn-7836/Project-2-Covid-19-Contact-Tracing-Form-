@@ -1,7 +1,259 @@
-Date of Arrival/Appointment: Friday, July 1, 2022
-NAME: MALLARi
-AGE: 19
-SEX: Male
-ADDRESS: 0310
-CONTACT INFO: 09666
-Temperature upon entry: 37.2 C
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+
+Date of Arrival/Appointment: Thursday, July 21, 2022
+NAME: 
+AGE: 
+SEX: ADDRESS: 
+CONTACT INFO: 
+Temperature upon entry: 
+

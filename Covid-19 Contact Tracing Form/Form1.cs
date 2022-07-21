@@ -48,10 +48,13 @@ namespace Covid_19_Contact_Tracing_Form
 
         private void button1_Click(object sender, EventArgs e)
         {
+        
             //Create a txt file for gathered Information
 
+            //Change from WriteText to AppendText to record all inputted informations
+
             StreamWriter outputFile;
-            outputFile = File.CreateText(@"D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\DATABASE.txt");
+            outputFile = File.AppendText(@"D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\DATABASE.txt");
 
             outputFile.WriteLine(label8.Text + " " + dateTimePicker1.Text);
             outputFile.WriteLine(label3.Text + " " + textBox1.Text);
@@ -74,9 +77,42 @@ namespace Covid_19_Contact_Tracing_Form
             outputFile.WriteLine(label6.Text + " " + textBox3.Text);
             outputFile.WriteLine(label7.Text + " " + textBox4.Text);
             outputFile.WriteLine(label9.Text + " " + textBox5.Text);
-       
+
+            //provide 1-line space for new Record
+      
+            outputFile.WriteLine();          
+
             outputFile.Close();
 
+
+            //Transition from Form1 to Form2
+
+            Form2 FORM2 = new Form2();
+            FORM2.Show();
+            this.Close();
+            
+
+
+
+
+
+            //Transition to DATABASE for filtering and displaying of records
+
+            
+
+
+
+
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Form1_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            
         }
     }
 }
