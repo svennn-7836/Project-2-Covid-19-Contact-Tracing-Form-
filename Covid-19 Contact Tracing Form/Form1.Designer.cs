@@ -139,6 +139,7 @@
             // 
             this.textBox1.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox1.Location = new System.Drawing.Point(91, 145);
+            this.textBox1.MaxLength = 100;
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(338, 22);
             this.textBox1.TabIndex = 7;
@@ -147,6 +148,7 @@
             // 
             this.textBox2.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox2.Location = new System.Drawing.Point(74, 182);
+            this.textBox2.MaxLength = 3;
             this.textBox2.Name = "textBox2";
             this.textBox2.Size = new System.Drawing.Size(77, 22);
             this.textBox2.TabIndex = 8;
@@ -163,6 +165,7 @@
             // 
             this.textBox4.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox4.Location = new System.Drawing.Point(181, 264);
+            this.textBox4.MaxLength = 11;
             this.textBox4.Name = "textBox4";
             this.textBox4.Size = new System.Drawing.Size(156, 22);
             this.textBox4.TabIndex = 10;
@@ -241,6 +244,7 @@
             // 
             this.textBox5.Font = new System.Drawing.Font("Times New Roman", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.textBox5.Location = new System.Drawing.Point(530, 245);
+            this.textBox5.MaxLength = 4;
             this.textBox5.Name = "textBox5";
             this.textBox5.Size = new System.Drawing.Size(156, 22);
             this.textBox5.TabIndex = 17;

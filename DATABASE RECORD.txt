@@ -1,63 +1,24 @@
-Date of Arrival/Appointment: Thursday, July 21, 2022
-NAME: 
-AGE: 
-SEX: ADDRESS: 
-CONTACT INFO: 
-Temperature upon entry: 
+Date of Arrival/Appointment: Saturday, July 2, 2022
+NAME: SVEN ORVILLE D. MALLARI
+AGE: 19
+SEX: Male
+ADDRESS: 0310 SAMPALOC ST. OLD STA MESA, MANILA
+CONTACT INFO: 09666218982
+Temperature upon entry: 37.3
 
-Date of Arrival/Appointment: Thursday, July 21, 2022
-NAME: 
-AGE: 
-SEX: ADDRESS: 
-CONTACT INFO: 
-Temperature upon entry: 
+Date of Arrival/Appointment: Wednesday, July 13, 2022
+NAME: SVEN ORVILLE D. MALLARI
+AGE: 19
+SEX: Male
+ADDRESS: 0310 SAMPALOC ST. OLD STA MESA, MANILA
+CONTACT INFO: 09666218982
+Temperature upon entry: 37.3
 
-Date of Arrival/Appointment: Thursday, July 21, 2022
-NAME: 
-AGE: 
-SEX: ADDRESS: 
-CONTACT INFO: 
-Temperature upon entry: 
-
-Date of Arrival/Appointment: Thursday, July 21, 2022
-NAME: 
-AGE: 
-SEX: ADDRESS: 
-CONTACT INFO: 
-Temperature upon entry: 
-
-Date of Arrival/Appointment: Thursday, July 21, 2022
-NAME: 
-AGE: 
-SEX: ADDRESS: 
-CONTACT INFO: 
-Temperature upon entry: 
-
-Date of Arrival/Appointment: Thursday, July 21, 2022
-NAME: 
-AGE: 
-SEX: ADDRESS: 
-CONTACT INFO: 
-Temperature upon entry: 
-
-Date of Arrival/Appointment: Thursday, July 21, 2022
-NAME: 
-AGE: 
-SEX: ADDRESS: 
-CONTACT INFO: 
-Temperature upon entry: 
-
-Date of Arrival/Appointment: Thursday, July 21, 2022
-NAME: 
-AGE: 
-SEX: ADDRESS: 
-CONTACT INFO: 
-Temperature upon entry: 
-
-Date of Arrival/Appointment: Thursday, July 21, 2022
-NAME: 
-AGE: 
-SEX: ADDRESS: 
-CONTACT INFO: 
-Temperature upon entry: 
+Date of Arrival/Appointment: Tuesday, July 26, 2022
+NAME: SVEN ORVILLE D. MALLARI
+AGE: 19
+SEX: Male
+ADDRESS: 0310 SAMPALOC ST. OLD STA MESA, MANILA
+CONTACT INFO: 09666218982
+Temperature upon entry: 37.1
 

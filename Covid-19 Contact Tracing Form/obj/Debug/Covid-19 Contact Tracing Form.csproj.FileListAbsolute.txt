@@ -9,3 +9,5 @@ D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tr
 D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\obj\Debug\Covid-19 Contact Tracing Form.pdb
 D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\obj\Debug\Covid_19_Contact_Tracing_Form.Form2.resources
 D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\obj\Debug\Covid_19_Contact_Tracing_Form.Form3.resources
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\obj\Debug\Covid_19_Contact_Tracing_Form.Form4.resources
+D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\Covid-19 Contact Tracing Form\bin\Debug\QRCoder.dll

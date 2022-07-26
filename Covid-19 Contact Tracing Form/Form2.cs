@@ -8,11 +8,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using QRCoder;
 
 namespace Covid_19_Contact_Tracing_Form
 {
     public partial class Form2 : Form
     {
+        private object txtQRCode;
+
         public Form2()
         {
             InitializeComponent();
@@ -50,12 +53,50 @@ namespace Covid_19_Contact_Tracing_Form
 
             //Transition from Form2 to Record Access
 
-            Form3 FORM3 = new Form3();
-            FORM3.Show();
+            Form3 FORM2 = new Form3();
+            FORM2.Show();
             this.Hide();
 
 
 
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            //Generate Qr Code
+            QRCodeGenerator qr = new QRCodeGenerator();
+            QRCodeData data = qr.CreateQrCode(textBox1.Text, QRCodeGenerator.ECCLevel.Q);
+            QRCode code = new QRCode(data);
+            pictureBox1.Image = code.GetGraphic(5);
+
+            
+
+          
+
+
+        }
+
+        private void textBox1_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void saveFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+            //Download Generated Qr Code
+
+            saveFileDialog1.ShowDialog();
+            if (saveFileDialog1.ShowDialog() == DialogResult.OK)
+            {
+              
+            }
+
+
+            }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
 
         }
     }

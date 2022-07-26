@@ -25,8 +25,9 @@ namespace Covid_19_Contact_Tracing_Form
 
         private void button2_Click(object sender, EventArgs e)
         {
-            Form2 FORM2 = new Form2();
-            FORM2.Show();
+            //Transition from Form3 back to Form2
+            Form2 FORM3 = new Form2();
+            FORM3.Show();
             this.Hide();
         }
 
@@ -37,21 +38,31 @@ namespace Covid_19_Contact_Tracing_Form
 
         private void textBox1_TextChanged(object sender, EventArgs e)
         {
-            //Add ScrollBars
-            textBox1.ScrollBars = ScrollBars.Both;
+            
         }
 
         private void button1_Click(object sender, EventArgs e)
         {
+           
 
         }
 
         private void button4_Click(object sender, EventArgs e)
         {
-            
+
+            //Accessing Record History
+
             StreamReader inputFile = new StreamReader(@"D:\Download\Code\ASSIGNMENT #3\Covid-19 Contact Tracing Form\DATABASE RECORD.txt");
             textBox1.Text = inputFile.ReadToEnd();
             inputFile.Close();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            //Transition from Form3 to Form4
+            Form4 FORM3 = new Form4();
+            FORM3.Show();
+            this.Hide();
         }
     }
 }

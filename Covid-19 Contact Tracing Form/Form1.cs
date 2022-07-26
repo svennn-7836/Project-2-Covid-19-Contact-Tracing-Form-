@@ -48,7 +48,8 @@ namespace Covid_19_Contact_Tracing_Form
 
         private void button1_Click(object sender, EventArgs e)
         {
-        
+            
+
             //Create a txt file for gathered Information
 
             //Change from WriteText to AppendText to record all inputted informations
@@ -87,22 +88,22 @@ namespace Covid_19_Contact_Tracing_Form
 
             //Transition from Form1 to Form2
 
-            Form2 FORM2 = new Form2();
-            FORM2.Show();
+            Form2 FORM1 = new Form2();
+            FORM1.Show();
             this.Close();
-            
-
-
-
-
-
-            //Transition to DATABASE for filtering and displaying of records
 
             
 
 
 
 
+            
+
+            
+
+
+
+    
         }
 
         private void Form1_Load(object sender, EventArgs e)
